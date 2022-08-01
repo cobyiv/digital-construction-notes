@@ -18,7 +18,7 @@
 2. Attach point cloud
 
 <img src="https://github.com/cobyiv/digital-construction-notes/blob/master/img/image-20220801141602654.png?raw=true" alt="image-20220801141602654" style="zoom:67%;" />
-   
+
 3. Don't really need to change settings
 
 ![image-20220801141801367](https://github.com/cobyiv/digital-construction-notes/blob/master/img/image-20220801141801367.png?raw=true)
@@ -67,3 +67,5 @@
 
 18. Mesh created
 <img src="https://github.com/cobyiv/digital-construction-notes/blob/master/img/image-20220801144133543.png?raw=true" alt="image-20220801144133543" style="zoom:67%;" />
+
+# new section
