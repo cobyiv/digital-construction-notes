@@ -1,4 +1,4 @@
-# Point Cloud -to- Revit Alignment
+# Point Cloud and Revit Model Alignment
 
 ## [0] Intro
 
