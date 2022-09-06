@@ -1,5 +1,7 @@
 # Point Cloud and Revit Model Alignment
 
+**Note:** choose only one of 4A or 4B based on your preference of Rhino vs. ACAD. Rhino may be more efficient in the end based on your familiarity.
+
 ![image-20220906115502924](assets/Point%20Cloud%20and%20Revit%20Model%20Alignment___assets/image-20220906115502924.png)
 
 ## [0] Intro
