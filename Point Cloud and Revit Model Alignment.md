@@ -1,6 +1,6 @@
 # Point Cloud and Revit Model Alignment
 
-![image-20220906114217646](assets/Point%20Cloud%20and%20Revit%20Model%20Alignment___assets/image-20220906114217646.png)
+![image-20220906115502924](assets/Point%20Cloud%20and%20Revit%20Model%20Alignment___assets/image-20220906115502924.png)
 
 ## [0] Intro
 
@@ -127,10 +127,11 @@ graph TB;
     A(1 // Field scanning Markers)-->B{3D Scan};
     B-->C(2 // SCENE Marker Point Extraction);
     C-->D(3 // SCENE Clean-up & Export RCP);
-    D.->E(4A ACAD Layout File)
-    D.->F(4B RHINO Layout File)
+    C.->E(4A ACAD Layout File)
+    C.->F(4B RHINO Layout File)
     F-->G(5 REVIT align Pointcloud -to- layout .DWG)
     E-->G
+    D-->G
     G-->H(6 REVIT Align Pointcloud & Layout .DWG paring with Revit Model)
     H-->I{Revit Model & Point Cloud Aligned}
 ```
